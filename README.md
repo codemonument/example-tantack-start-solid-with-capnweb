@@ -13,3 +13,9 @@
   - no add-ons (not sure if they are compatible with tanstack start - solid
     flavor)
   - no exsamples
+
+Use the following commands to start your app: % cd
+example-tantack-start-solid-with-capnweb % bunx --bun run dev
+
+=> start the app in dev mode for the first time to generate the routes.gen file
+to fix TS LSP Errors!
